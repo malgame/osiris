@@ -25,7 +25,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="https://www.pngkit.com/png/detail/374-3742116_the-crook-and-the-flail-crook-and-flail.png" alt="The Crook And The Flail - Crook And Flail@pngkit.com" width="50%" height="50%">
+    <img src="https://www.pngkit.com/png/detail/374-3742116_the-crook-and-the-flail-crook-and-flail.png" alt="The Crook And The Flail - Crook And Flail@pngkit.com" width="25%" height="25%">
   </a>
 
   <h3 align="center">OSIRIS</h3>
