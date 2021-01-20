@@ -206,6 +206,6 @@ Project Link: [https://github.com/malgame/osiris](https://github.com/malgame/osi
 [issues-url]: https://github.com/malgame/osiris/issues
 [license-shield]: https://img.shields.io/github/license/malgame/osiris
 [license-url]: https://github.com/malgame/osiris/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-blue.svg?style=flat&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/cruzcr
 [product-screenshot]: images/screenshot.png
