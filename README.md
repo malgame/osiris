@@ -198,14 +198,14 @@ Project Link: [https://github.com/malgame/osiris](https://github.com/malgame/osi
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/malgame/osiris
 [contributors-url]: https://github.com/malgame/osiris/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/malgame/osiris.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/malgame/osiris
 [forks-url]: https://github.com/malgame/osiris/network/members
-[stars-shield]: https://img.shields.io/github/stars/malgame/osiris.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/malgame/osiris
 [stars-url]: https://github.com/malgame/osiris/stargazers
-[issues-shield]: https://img.shields.io/github/issues/malgame/osiris.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/malgame/osiris
 [issues-url]: https://github.com/malgame/osiris/issues
-[license-shield]: https://img.shields.io/github/license/malgame/osiris.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/malgame/osiris
 [license-url]: https://github.com/malgame/osiris/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black
 [linkedin-url]: https://linkedin.com/in/cruzcr
 [product-screenshot]: images/screenshot.png
