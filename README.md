@@ -24,7 +24,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://github.com/malgame/osiris">
     <img src="https://www.pngkit.com/png/detail/374-3742116_the-crook-and-the-flail-crook-and-flail.png" alt="The Crook And The Flail - Crook And Flail@pngkit.com" width="25%" height="25%">
   </a>
 
@@ -33,14 +33,14 @@
   <p align="center">
   <strong>O</strong>pen <strong>S</strong>ource <strong>I</strong>nsider <strong>R</strong>isk <strong>I</strong>ndicator <strong>S</strong>ervice
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/malgame/osiris"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://github.com/malgame/osiris">View Demo</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://github.com/malgame/osiris/issues">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/malgame/osiris/issues">Request Feature</a>
   </p>
 </p>
 
@@ -196,15 +196,15 @@ Project Link: [https://github.com/malgame/osiris](https://github.com/malgame/osi
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/malgame/osiris
 [contributors-url]: https://github.com/malgame/osiris/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/malgame/osiris.svg?style=for-the-badge
 [forks-url]: https://github.com/malgame/osiris/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/malgame/osiris.svg?style=for-the-badge
 [stars-url]: https://github.com/malgame/osiris/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/malgame/osiris.svg?style=for-the-badge
 [issues-url]: https://github.com/malgame/osiris/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/malgame/osiris.svg?style=for-the-badge
 [license-url]: https://github.com/malgame/osiris/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/cruzcr
